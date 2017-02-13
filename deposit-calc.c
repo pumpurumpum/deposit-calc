@@ -5,9 +5,9 @@ int main()
 	int day,summa_vklada;
 	
 	printf("Input day");
-	scanf("%d\n",&day);
+	scanf("%d",&day);
 	printf("Input sum");
-	scanf("%d\n",&summa_vklada);
+	scanf("%d",&summa_vklada);
 	
 if ((day<365)&&(summa_vklada>10000)){
 	int dohod;
