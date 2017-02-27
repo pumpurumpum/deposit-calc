@@ -26,7 +26,7 @@ int main()
 			revenue = deposit*1.12;
 			printf("%d",revenue);}
 			}
-			if (deposit>100000){
+		if (deposit>100000){
         	if (day<=30){
        			revenue=deposit*0.9;
         		printf("%d",revenue);}
